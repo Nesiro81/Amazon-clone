@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Nesiro81/Amazon-clone.git/static/css/main.b92c2cc8.css",
-    "main.js": "/Nesiro81/Amazon-clone.git/static/js/main.a962186c.js",
+    "main.js": "/Nesiro81/Amazon-clone.git/static/js/main.e21e36e1.js",
     "static/media/gift.jpg": "/Nesiro81/Amazon-clone.git/static/media/gift.c914c0c9e43c17916041.jpg",
     "static/media/up.jpg": "/Nesiro81/Amazon-clone.git/static/media/up.7a81bd546704d74ac607.jpg",
     "static/media/book.jpg": "/Nesiro81/Amazon-clone.git/static/media/book.805821d23a3f63566f17.jpg",
@@ -9,10 +9,10 @@
     "static/media/black.jpg": "/Nesiro81/Amazon-clone.git/static/media/black.825280c80d86ad475995.jpg",
     "index.html": "/Nesiro81/Amazon-clone.git/index.html",
     "main.b92c2cc8.css.map": "/Nesiro81/Amazon-clone.git/static/css/main.b92c2cc8.css.map",
-    "main.a962186c.js.map": "/Nesiro81/Amazon-clone.git/static/js/main.a962186c.js.map"
+    "main.e21e36e1.js.map": "/Nesiro81/Amazon-clone.git/static/js/main.e21e36e1.js.map"
   },
   "entrypoints": [
     "static/css/main.b92c2cc8.css",
-    "static/js/main.a962186c.js"
+    "static/js/main.e21e36e1.js"
   ]
 }
