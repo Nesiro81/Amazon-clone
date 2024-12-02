@@ -10,7 +10,7 @@ import Results from './components/pages/Results/Results';
 import ProductDetail from "./components/pages/ProductDetail/ProductDetail";
 function Routinger() {
   return (
-    <Router>
+    
     <Routes>
       <Route path="/" element={<Landing />} />
       <Route path="/auth" element={<SignIn />} />
@@ -19,10 +19,9 @@ function Routinger() {
       <Route path="/category/:categoryName" element={<Results />} />
       <Route path="/products/:productId" element={<ProductDetail />} />
 
-
       <Route path="/cart" element={<Cart />} />
     </Routes>
-  </Router>
+  
   )
 }
 
